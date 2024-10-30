@@ -22,7 +22,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Product Specifics
 PRODUCT_NAME := twrp_LI6
-PRODUCT_DEVICE := TECNO-LI6
+PRODUCT_DEVICE := LI6
 PRODUCT_BRAND := TECNO
 PRODUCT_MODEL := TECNO LI6
 PRODUCT_MANUFACTURER := TECNO
